@@ -1,6 +1,20 @@
 # Multi-auth-login
 Multi role auth login dengan Laravel 11 Breeze
 
+Deskripsi Program
+Program aplikasi web berbasis Laravel yang menggunakan Laravel Breeze untuk otentikasi multi-pengguna. Aplikasi ini memiliki dua jenis pengguna: Admin dan User. Setiap jenis pengguna memiliki hak akses dan tampilan yang berbeda.
+
+Fitur Utama:
+Otentikasi Multi-Pengguna:
+Admin dan User memiliki halaman dashboard yang berbeda.
+Middleware khusus untuk memeriksa tipe pengguna sebelum mengakses halaman tertentu.
+
+Manajemen Produk (Admin):
+Admin dapat mengelola produk melalui halaman khusus.
+
+Halaman Favorit (User):
+User dapat melihat daftar favorit mereka.
+
 Petunjuk Singkat Penggunaan Aplikasi
 1. Persiapan Proyek
 Clone Repository
